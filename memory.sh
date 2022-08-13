@@ -9,4 +9,4 @@ df -h
 echo "Uptime:"
 uptime
 
-
+# this is good for check sysytem most important command in Linux
